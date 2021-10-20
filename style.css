@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+div {
+  display: inline-block;
+  margin: 16px;
+}
+
+.my-green-style {
+  background: lightseagreen;
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+}
+
+.my-red-style {
+  background: lightcoral;
+}
+
+.circle {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
